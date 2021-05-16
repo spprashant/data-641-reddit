@@ -23,3 +23,11 @@ See the __main__ method for usage.
 * data-641-reddit.ipynb
 
 IPython Notebook use for testing and analysis of data
+
+* DataExploration.ipynb
+
+IPython Notebook for initial analysis of the dataset and identification of top words
+
+* DeepLearning.ipynb
+
+IPython Notebook for implementation of the BERT and other deep learning models
